@@ -27,6 +27,8 @@ load_digital_signals_by_epoch 函数可以指定标号读出少量信息（不�
 
 edf文件格式说明：[The EDF format](http://www.teuniz.net/edfbrowser/edf%20format%20description.html)
 
+这个好像是医学上用来记录健康指标数据的
+
 把edf文件成ascii：[edf2ascii](http://www.teuniz.net/edf2ascii/)，不过是整文件转，速度有点慢
 
 直接查看指标曲线：[edfbrowser](http://www.teuniz.net/edfbrowser/index.html)，打开大文件的速度挺快
